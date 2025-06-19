@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/프밍/2048_game 5차/cmake-build-debug/CMakeFiles/2048_Game.dir
+C:/Users/user/Desktop/프밍/2048_game 5차/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/프밍/2048_game 5차/cmake-build-debug/CMakeFiles/rebuild_cache.dir
